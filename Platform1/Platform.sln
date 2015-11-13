@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform", "Platform\Platform\Platform.csproj", "{2FF1C17F-B390-4F59-8923-57EC96D2AF3B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PlatformContent", "Platform\PlatformContent\PlatformContent.contentproj", "{4DB9D1EE-26D0-42F2-BDDC-F1EB4DDCAB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF1C17F-B390-4F59-8923-57EC96D2AF3B}.Debug|x86.ActiveCfg = Debug|x86
+		{2FF1C17F-B390-4F59-8923-57EC96D2AF3B}.Debug|x86.Build.0 = Debug|x86
+		{2FF1C17F-B390-4F59-8923-57EC96D2AF3B}.Release|x86.ActiveCfg = Release|x86
+		{2FF1C17F-B390-4F59-8923-57EC96D2AF3B}.Release|x86.Build.0 = Release|x86
+		{4DB9D1EE-26D0-42F2-BDDC-F1EB4DDCAB45}.Debug|x86.ActiveCfg = Debug|x86
+		{4DB9D1EE-26D0-42F2-BDDC-F1EB4DDCAB45}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

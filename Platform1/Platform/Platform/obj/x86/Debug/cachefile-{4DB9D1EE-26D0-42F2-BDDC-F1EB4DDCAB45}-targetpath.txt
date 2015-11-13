@@ -1,0 +1,6 @@
+Content\Font1.xnb
+Content\fade.xnb
+Content\Splash\image1.xnb
+Content\Splash\image2.xnb
+Content\Splash\image3.xnb
+Content\MenuFont.xnb
