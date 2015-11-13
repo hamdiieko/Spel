@@ -1,0 +1,12 @@
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_tiles.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_white.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_black.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\KingOfTheHill.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\KingOfTheHill.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\obj\x86\Debug\KingOfTheHill.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\obj\x86\Debug\KingOfTheHill.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\obj\x86\Debug\KingOfTheHill.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\start.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\red.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\SpriteFont1.xnb
