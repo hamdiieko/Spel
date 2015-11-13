@@ -1,0 +1,6 @@
+Content\chess_tiles.xnb
+Content\chess_white.xnb
+Content\chess_black.xnb
+Content\start.xnb
+Content\red.xnb
+Content\SpriteFont1.xnb

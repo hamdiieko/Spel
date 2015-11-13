@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>chess_tiles.png</Source>
+      <Name>chess_tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_tiles.xnb</Output>
+      <Time>2014-10-20T12:55:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>chess_white.png</Source>
+      <Name>chess_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_white.xnb</Output>
+      <Time>2014-10-20T12:55:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>chess_black.png</Source>
+      <Name>chess_black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\chess_black.xnb</Output>
+      <Time>2014-10-20T12:55:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2014-11-11T11:49:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>red.png</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\red.xnb</Output>
+      <Time>2014-11-20T10:39:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-11-20T11:07:32+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E3DC3274-A76A-43EA-BB60-63CC3C8EFB5B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHillContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alexander\Documents\Visual Studio 2013\Projects\KingOfTheHill\KingOfTheHill\KingOfTheHill\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-23T16:00:14.5435681+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
