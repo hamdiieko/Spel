@@ -62,10 +62,13 @@ namespace WindowsGame1
                     foreach (Ball other in gameObjects)
                     {
                         if(!(other is Ball_Mouse)&& ball!= other)
-                            while (ball.CircleCollision(other))
+                            if (ball.CircleCollision(other))
                             {
-                                ball.HandleCollision();
-                                other.HandleCollision();
+                                while (ball.CircleCollision(other))
+                                {
+                                    ball.HandleCollision();
+                                    other.HandleCollision();
+                                }
                             }
                     }
             }

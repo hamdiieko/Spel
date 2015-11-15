@@ -12,7 +12,7 @@ namespace WindowsGame1
     class Ball_Mouse:Ball
     {
         public Ball_Mouse(Texture2D tex)
-            : base(tex, new Vector2(),new float(radius),new Rectangle=hitBox)// varfor funkar inte detta måste kalla på fler argument från konstruktorn i Ball klassen men de går inte, Helpz
+            : base(tex, new Vector2(),tex.Width/2, hitBox)// varfor funkar inte detta måste kalla på fler argument från konstruktorn i Ball klassen men de går inte, Helpz
         {
 
         }

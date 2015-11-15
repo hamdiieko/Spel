@@ -41,7 +41,7 @@ namespace WindowsGame1
             {
                 pos -= speed / 2;
             }
-            if (ks.IsKeyDown(Keys.Left) && (pos.X - (tex.Width / 2.0f)) < 0)
+            if (ks.IsKeyDown(Keys.Left) && (pos.X - (tex.Width / 2.0f)) > 0)
             {
                 pos += speed / 2;
             }

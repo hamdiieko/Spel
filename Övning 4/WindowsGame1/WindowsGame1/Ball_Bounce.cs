@@ -16,7 +16,7 @@ namespace WindowsGame1
         public Vector2 speed;
         public Color color;
         
-        public Ball_Bounce(Texture2D tex, Vector2 pos, GameWindow window) :base(tex,pos)
+        public Ball_Bounce(Texture2D tex, Vector2 pos, GameWindow window) :base(tex,pos,tex.Width/2,hitBox)
         {
             this.bX = window.ClientBounds.Width;
             this.bY = window.ClientBounds.Height;
@@ -41,6 +41,8 @@ namespace WindowsGame1
         public override void HandleCollision()
         {
             pos -= speed / 2;
+
+
               
         }
     }
