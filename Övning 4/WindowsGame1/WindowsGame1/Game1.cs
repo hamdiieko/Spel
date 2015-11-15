@@ -69,7 +69,7 @@ namespace WindowsGame1
                                     ball.HandleCollision();
                                     other.HandleCollision();
                                 }
-                            }
+                            }   
                     }
             }
             

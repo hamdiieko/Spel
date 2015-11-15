@@ -5,7 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1", "WindowsGame1\WindowsGame1\WindowsGame1.csproj", "{FEBDD3B2-F036-4ECE-BEB3-59AFD5B1175F}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{0D40EE05-73C4-42DA-966E-01A86E66A65E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{0D40EE05-73C4-42DA-966E-01A86E66A65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrolling background", "Scrolling background\Scrolling background\Scrolling background.csproj", "{28B337E9-ED86-4BA2-8AFC-ADB0EE9D391D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Scrolling backgroundContent", "Scrolling background\Scrolling backgroundContent\Scrolling backgroundContent.contentproj", "{31E86F26-D6B2-4210-9DD2-9E4DF3D2C58A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,12 @@ Global
 		{FEBDD3B2-F036-4ECE-BEB3-59AFD5B1175F}.Release|x86.Build.0 = Release|x86
 		{0D40EE05-73C4-42DA-966E-01A86E66A65E}.Debug|x86.ActiveCfg = Debug|x86
 		{0D40EE05-73C4-42DA-966E-01A86E66A65E}.Release|x86.ActiveCfg = Release|x86
+		{28B337E9-ED86-4BA2-8AFC-ADB0EE9D391D}.Debug|x86.ActiveCfg = Debug|x86
+		{28B337E9-ED86-4BA2-8AFC-ADB0EE9D391D}.Debug|x86.Build.0 = Debug|x86
+		{28B337E9-ED86-4BA2-8AFC-ADB0EE9D391D}.Release|x86.ActiveCfg = Release|x86
+		{28B337E9-ED86-4BA2-8AFC-ADB0EE9D391D}.Release|x86.Build.0 = Release|x86
+		{31E86F26-D6B2-4210-9DD2-9E4DF3D2C58A}.Debug|x86.ActiveCfg = Debug|x86
+		{31E86F26-D6B2-4210-9DD2-9E4DF3D2C58A}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
